@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakib Malik</h1>
 <h3 align="center">A passionate Python developer from India</h3>
-
+<p> I am come from a small city Saharanpur (Uttar Pradesh). <p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=onesakib&label=Profile%20views&color=0e75b6&style=flat" alt="onesakib" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=onesakib" alt="onesakib" /></a> </p>
